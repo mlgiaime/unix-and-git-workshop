@@ -1,0 +1,3 @@
+cd desktop: changes directory to the desktop
+ls: lists all files within the directory you are in
+cd ..: moves up one directory

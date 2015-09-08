@@ -1,0 +1,3 @@
+git init: creates a new repository
+git add: adds the file you want to your repository
+git commit -m: commit is to commit to the repository, -m to add a note about the file being added--the commit will not complete without a -m
